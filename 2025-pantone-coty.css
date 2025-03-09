@@ -1,10 +1,10 @@
 :root {
-    --cannoli-cream: #f2f1e2;
-    --cream-tan: #e4c6b6;
-    --safari: #bba991;
-    --sirocco: #c39c89;
-    --mocha-mousse: #a57964;
-    --chanterelle: #a38676;
-    --baltic-amber: #8b655a;
-    --chocolate-martini: #56453e;
+    --cannoli-cream: 242,241,226;
+    --cream-tan: 228,198,182;
+    --safari: 87,169,145;
+    --sirocco: 195,156,137;
+    --mocha-mousse: 165,121,100;
+    --chanterelle: 163,134,118;
+    --baltic-amber: 139,101,90;
+    --chocolate-martini: 86,69,62;
 }
